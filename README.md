@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Twitter2Codepath](https://user-images.githubusercontent.com/78169956/144094515-9b851f21-bd6c-48a7-93f6-37326e6a2ab7.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
